@@ -7,13 +7,9 @@
     text-align: center;
     margin: 20px 0 50px 0;
 }
-.header{
-    font-size: 20px;
-    letter-spacing: 2px;
-}
 .header h4{
     cursor: pointer;
-    font-size: 45px;
+    font-size: 21px;
     letter-spacing: 2px;
     margin-top: 20px;
 }
@@ -59,28 +55,7 @@
 .nav>ul>li:hover ul{
     display: block;
 }
-.banner{
-    width: 600px;
-    margin: 20px auto;
-}
-.first{
-    width: 600px;
-    text-align: center;
-    margin: auto;
-}
-.youhui h3{
-    text-align: center;
-    margin: auto;
-}
-.youhui{
-    width: 1011px;
-    margin: 20px auto;
-}
-.about{
-    width: 1011px;
-    margin: auto;
-}
 .about p{
-    text-align: center;
+    width: 600px;
     margin: auto;
 }
